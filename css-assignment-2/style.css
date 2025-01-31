@@ -78,5 +78,13 @@ section {
         width: 60%;
         margin: 0 auto;
     }
+
+    .card {
+        box-shadow: 1px 1px 20px 0px rgb(0 0 0 / 34%);
+    }
+
+    .card-header {
+        left: -34px;
+    }
 }
 
